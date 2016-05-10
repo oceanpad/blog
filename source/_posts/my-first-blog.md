@@ -1,5 +1,5 @@
 ---
-title: my first blog
+title: My first blog
 date: 2016-05-09 23:55:53
 tags:
 ---

@@ -1,5 +1,5 @@
 ---
-title: to Learning
+title: To Learning
 date: 2016-05-10 23:23:27
 tags:
 ---

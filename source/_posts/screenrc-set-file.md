@@ -4,9 +4,8 @@ date: 2016-05-10 00:12:43
 tags:
 ---
 This my screenrc set file:
---------------------------I am commnet line------------------------------
 
-#start from here
+*start from here
 
 # Enable 256 color term
 term xterm-256color
@@ -21,8 +20,6 @@ bind ^c screen 1
 bind 0 select 10                                                            
 screen 1
 
-----------------------------------------------------------------------------------------------------
-zhy20090912@gmail.com 2016-04-26 at singapore orchard ikina office
-----------------------------------------------------------------------------------------------------
+#zhy20090912@gmail.com 2016-04-26 at singapore orchard ikina office
 
-#end at here
+*end at here
