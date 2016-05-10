@@ -5,7 +5,7 @@ tags:
 ---
 This my screenrc set file:
 
-*start from here
+* start from here
 
 # Enable 256 color term
 term xterm-256color
@@ -22,4 +22,4 @@ screen 1
 
 #zhy20090912@gmail.com 2016-04-26 at singapore orchard ikina office
 
-*end at here
+* end at here
