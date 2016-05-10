@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: haiyang's blog
+title: oceanpad's blog
 subtitle: oceanpad
 description: My personal blog
 author: Haiyang Zhao
@@ -69,6 +69,6 @@ theme: spfk
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:oceanpad/blog.git
+  repo: git@github.com:oceanpad/oceanpad.github.io.git
   branch: master
   message: message
