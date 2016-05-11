@@ -29,5 +29,5 @@ run task
 ```
 npm run
 ```
+![picture](/source/resource/salomo1.jpg)
 
-#### 
