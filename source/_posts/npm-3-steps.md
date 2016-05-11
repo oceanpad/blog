@@ -14,6 +14,7 @@ npm init
 ```
 npm will take charge all the files under this directory.
 After this action, you will found there have a [package.json] file appear.
+![picture](/resource/npm3steps/1.png)
 
 # 2. npm install
 eg. install jquery:
@@ -23,11 +24,12 @@ npm install jquery --save
 [jquery] is the package name
 After this step, a new jquery folder will appear under node-model. 
 And package.json's dependencies will add a jquery automqtically.
+![picture](/resource/npm3steps/2.png)
 
 # 3. npm run
 run task
 ```
 npm run
 ```
-![picture](/source/resource/salomo1.jpg)
+![picture](/resource/npm3steps/3.png)
 
