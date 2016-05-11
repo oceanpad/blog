@@ -51,3 +51,5 @@ var gulp=require("gulp"),uglify=require("gulp-uglify");gulp.task("uglify",functi
 ```
 
 * This is a good result that usually seen at big website's online js file. :)
+![oceanpad.github.io](/resource/gulp/1.png)
+![oceanpad.github.io](/resource/gulp/2.png)
