@@ -3,10 +3,11 @@ title: vimrc set file
 date: 2016-05-10 00:10:04
 tags:
 ---
- [my .vimrc set file, click for more detail](http://oceanpad.github.io/2016/05/10/vimrc-set-file/)
+#### .vimrc
 
 <!-- more -->
-* start from here
+```
+
 runtime! debian.vim
 if has("syntax")
   syntax on 
@@ -56,4 +57,5 @@ Plugin 'scrooloose/nerdtree'
 
 call vundle#end()            " required
 filetype plugin indent on    " required
-* end at here 
+
+```

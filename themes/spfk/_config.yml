@@ -4,7 +4,7 @@
 ## About Page: `hexo new page about`
 ## Tags Cloud Page: `hexo new page tags`
 menu:
-  Blog Home: /Home
+  #Blog Home: /Home
   #作品展示: /works
   #留言打卡: /about
   #前端导航: /FrontEndGuide
@@ -126,7 +126,7 @@ tagcloud: true
 # Blogroll, Link exchange | links
 # friends: false
 friends:
-  oceanpad: oceanpad.github.io
+  oceanpad: http://oceanpad.github.io
 #是否开启“about me”。
 aboutme: I am haiyang zhao, I come from china. now I work at Singapore, I loke programming. I am leaaning react.js, onsen ui, scala recently.
 #aboutme: false
