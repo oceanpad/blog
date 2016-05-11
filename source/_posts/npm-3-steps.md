@@ -6,8 +6,8 @@ tags:
 what is npm :
 npm is the package manager for JavaScript. Find, share, and reuse packages of code from hundreds of thousands of developers — and assemble them in powerful new ways.
 
-#### npm 3 things need to remember
 <!--more-->
+#### npm 3 things need to remember
 # 1. npm init
 ```
 npm init
