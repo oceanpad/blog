@@ -3,8 +3,8 @@ title: screenrc set file
 date: 2016-05-10 00:12:43
 tags:
 ---
-This my screenrc set file:
-
+ [my .screenrc set file, click for more detail](http://oceanpad.github.io/2016/05/10/screenrc-set-file/)
+<!--more-->
 * start from here
 
 # Enable 256 color term
