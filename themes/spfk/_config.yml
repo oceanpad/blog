@@ -57,7 +57,7 @@ disqus:
   # you have set "disqus_shortname" in your site's "_config.yml"
 
 duoshuo:
-  on: true
+  #on: true
   domain:
   # 是否开启多说评论，http://duoshuo.com/create-site/
   # 使用上面网址登陆你的多说，然后创建站点，在 domain 中填入你设定的域名前半部分
@@ -151,8 +151,8 @@ mathjax: false
 
 # Socail Share | 是否开启分享
 # share: true
-baidushare: true
-#showshare: true
+# baidushare: true
+showshare: true
 
 # 百度、谷歌站长验证。填写 HTML tags content
 # Site Verification for Google and Baidu. HTML label content.
