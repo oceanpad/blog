@@ -33,3 +33,6 @@ Sometimes you can't install vagrant by command line, so you need download form n
 ![can't download](/resource/fbctf/3.png)
 * sometimes can't install by command line.
 ![can't download](/resource/fbctf/4.png)
+
+* issue
+[issue](http://stackoverflow.com/questions/37169378/in-facebook-open-source-project-fbctf-error-in-starting-the-application)
