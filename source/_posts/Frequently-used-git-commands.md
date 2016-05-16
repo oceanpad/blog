@@ -3,7 +3,7 @@ title: Frequently used git commands(reposted)
 date: 2016-05-16 11:55:37
 tags:
 ---
-Frequently Used Git Commands(转载)
+Frequently Used Git Commands[reposted]
 <!--more-->
 我每天使用 Git ，但是很多命令记不住。
 一般来说，日常使用只要记住下图6个命令，就可以了。但是熟练使用，恐怕要记住60～100个命令。
@@ -437,3 +437,4 @@ $ git stash pop
 ```
 $ git archive
 ```
+[Thanks Frank](https://github.com/ruanyf)
