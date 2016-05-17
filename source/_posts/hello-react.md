@@ -150,3 +150,33 @@ NewCom is a component class, first char must be uppter, you can't write it like 
  You will get a result "Hello, oceaan".
 
  [facebook react homepage](https://facebook.github.io/react/index.html)
+### this.props.children
+
+```
+var NotesList = React.createClass({
+  render: function() {
+    return (
+      <ol>
+      {
+        React.Children.map(this.props.children, function (child) {
+          return <li>{child}</li>;
+        })
+      }
+      </ol>
+    );
+  }
+});
+
+ReactDOM.render(
+  <NotesList>
+    <span>hello</span>
+    <span>world</span>
+  </NotesList>,
+  document.body
+);
+```
+* result
+```
+1. hello
+2. world
+```
