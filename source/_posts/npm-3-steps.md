@@ -1,5 +1,5 @@
 ---
-title: Front end 3 steps
+title: npm 3 steps
 date: 2016-05-11 10:03:53
 tags:
 ---
@@ -7,7 +7,7 @@ what is npm :
 npm is the package manager for JavaScript. Find, share, and reuse packages of code from hundreds of thousands of developers — and assemble them in powerful new ways.
 
 <!--more-->
-#### npm 3 things need to remember
+* npm 3 things need to remember
 # 1. npm init
 ```
 npm init
@@ -33,3 +33,21 @@ npm run
 ```
 ![picture](/resource/npm3steps/3.png)
 
+you can config your package.json's scripts to run what you want.
+Like this:
+```
+"scripts": {
+  "test": "echo \"error: no test specified\" && exit 1",
+	"gulp":"gulp"
+}
+```
+If you run "npm run gulp", It is like run gulp on terminal directly.
+```
+$ npm run gulp 
+==
+$ gulp
+
+$ npm run test 
+==
+echo \"error: no test specified\" && exit 1
+```

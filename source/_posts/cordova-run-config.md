@@ -6,15 +6,18 @@ tags:
 If you want to use make web app can run in many platforms like ios, andorid and so on, you can learn cordova.
 Write one time use html, css, javascript, run everywhere.
 React.js is very popular recently, you can use js framework to make your web app better and better.
- * [cordova cordova homePage](https://cordova.apache.org/)
+[cordova cordova homePage](https://cordova.apache.org/)
+
 ![cordova](/resource/cordova/cordova.jpg)
 <!--more-->
+
 Apache Cordova is an open-source mobile development framework. 
 It allows you to use standard web technologies - HTML5, CSS3, and JavaScript for cross-platform development
 Apache Cordova enables software programmers to build applications for mobile devices using CSS3, HTML5, 
 and JavaScript instead of relying on platform-specific APIs like those in Android, iOS, or Windows Phone.
 ![cordova](/resource/cordova/1.png)
-* cordova need node.js and npm development enviroment. 
+
+cordova need node.js and npm development enviroment. 
 ## start
 ### Installing Cordova
 ```
